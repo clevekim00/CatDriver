@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{85860748-B0B1-27F8-B8C7-5D7F0FDE2EC9}") = "CatDriver", "Assembly-CSharp.csproj", "{EF80734F-F7D0-394B-74A5-E0B60D15048C}"
+EndProject
+Project("{85860748-B0B1-27F8-B8C7-5D7F0FDE2EC9}") = "CatDriver", "Assembly-CSharp-Editor.csproj", "{EE2F5FC9-73CC-39A3-DD22-331298943BDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF80734F-F7D0-394B-74A5-E0B60D15048C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF80734F-F7D0-394B-74A5-E0B60D15048C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF80734F-F7D0-394B-74A5-E0B60D15048C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF80734F-F7D0-394B-74A5-E0B60D15048C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE2F5FC9-73CC-39A3-DD22-331298943BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2F5FC9-73CC-39A3-DD22-331298943BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2F5FC9-73CC-39A3-DD22-331298943BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2F5FC9-73CC-39A3-DD22-331298943BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
